@@ -1,0 +1,56 @@
+body {
+    margin:  0;
+    padding-top:  1000px;
+    background-color: #eaceed;
+}
+
+.profile {
+    width:175px;
+    margin-bottom:50px;
+    border-radius:50%;
+}
+
+
+#welcome {
+    position:absolute;
+    overflow:hidden;
+    height: 2000px;
+        color:#4d020b;
+    left:0;
+        bottom:0;
+        top:0;
+    right:0;
+    opacity:0.49;
+    background: linear-gradient(#7FFFD4 0% , #7B68EE 100%);
+        display: table;
+    width:100%;
+    height:100%;
+}
+
+#bio {
+    padding:50px;
+    text-align:center;
+    font-size:30;
+
+}
+
+#quote {
+    padding:50px;
+    text-align:center;
+    font-size:50;
+
+}
+
+.line {
+    height:6px;
+    background-color:antiquewhite;
+    width:350px;
+    margin:8px auto;
+}
+
+.parallax-inner {
+    display: table-cell;
+    position:relative;
+    text-align:center;
+    vertical-align:middle;
+}
